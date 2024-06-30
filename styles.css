@@ -52,10 +52,6 @@ header
   transition: background-color 1s;
 }
 
-#physics
-{
-  background-color: #00FFF6;
-}
 
 
 .card-link
@@ -137,4 +133,9 @@ li
 {
   height: 100%;
   position: relative
+}
+
+.collapse
+{
+  height: 100%;
 }
